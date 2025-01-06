@@ -1,6 +1,6 @@
 In this architecture, managing data migration and integration securely and efficiently is a critical focus, whether within an AWS ecosystem or from external sources. A common challenge many businesses face is transferring files from SFTP servers to Amazon S3 while maintaining security, performance, and data integrity. This architecture demonstrates how AWS services can work together to build a robust and scalable data pipeline, integrating both ETL and analytics workflows.
 
-# Architecture 
+
 ![Screenshot 2024-09-26 001025](https://github.com/user-attachments/assets/2c3e1a62-a2a9-4d4d-8417-ff672f63dba5)
 
 # 1. Data Ingestion with AWS Transfer for SFTP
